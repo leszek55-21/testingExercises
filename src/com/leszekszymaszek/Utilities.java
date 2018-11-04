@@ -1,7 +1,7 @@
-package com.timbuchalka;
+package com.leszekszymaszek;
 
 /**
- * Created by timbuchalka on 28/11/16.
+ * Created by leszekszymaszek on 28/11/16.
  */
 public class Utilities {
 

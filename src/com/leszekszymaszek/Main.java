@@ -1,4 +1,4 @@
-package com.timbuchalka;
+package com.leszekszymaszek;
 
 public class Main {
 
